@@ -1,0 +1,16 @@
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\bin\Debug\net8.0-windows\Situação_de_Aprendizagem.exe
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\bin\Debug\net8.0-windows\Situação_de_Aprendizagem.deps.json
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\bin\Debug\net8.0-windows\Situação_de_Aprendizagem.runtimeconfig.json
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\bin\Debug\net8.0-windows\Situação_de_Aprendizagem.dll
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\bin\Debug\net8.0-windows\Situação_de_Aprendizagem.pdb
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.btnCarregar.resources
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.csproj.GenerateResource.cache
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.AssemblyInfoInputs.cache
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.AssemblyInfo.cs
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.csproj.CoreCompileInputs.cache
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.dll
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\refint\Situação_de_Aprendizagem.dll
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.pdb
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\Situação_de_Aprendizagem.genruntimeconfig.cache
+C:\Users\henzo\OneDrive\Área de Trabalho\Codigos\Situação_de_Aprendizagem\Situação_de_Aprendizagem\obj\Debug\net8.0-windows\ref\Situação_de_Aprendizagem.dll

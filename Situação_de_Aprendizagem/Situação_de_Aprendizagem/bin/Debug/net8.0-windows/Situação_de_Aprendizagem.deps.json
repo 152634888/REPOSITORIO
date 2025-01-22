@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Situação_de_Aprendizagem/1.0.0": {
+        "runtime": {
+          "Situação_de_Aprendizagem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Situação_de_Aprendizagem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
